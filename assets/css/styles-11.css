@@ -1,12 +1,12 @@
 
 body {
-  font-family: 'Roboto', sans-serif;
-  color: #666;
+  font-family: 'Calibri', sans-serif;
+  color: #FF9800;
   background: #f5f5f5;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #444;
+  color: rgb(179, 45, 45);
   overflow-x: hidden;
   position: relative;
 }
@@ -19,7 +19,7 @@ h6 {
   font-weight: 500;
 }
 a {
-  color: #607D8B;
+  color: #2c98ce;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -27,7 +27,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #41545e;
+  color: #041b27;
 }
 a:focus {
   text-decoration: none;
@@ -37,7 +37,7 @@ p {
 }
 .btn,
 a.btn {
-  background: #4b626d;
+  background: #cf894f;
   color: #fff;
   padding: 8px 15px;
   -webkit-border-radius: 2px;
@@ -58,7 +58,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
   color: #fff;
-  background: #566f7c;
+  background: #0f79b3;
 }
 #topcontrol {
   -webkit-transition: all 0.4s ease-in-out;
@@ -95,7 +95,7 @@ a.btn:hover {
   font-weight: normal;
 }
 .header {
-  background: #607D8B;
+  background: #54b2ff;
   color: #fff;
 }
 .header a {
@@ -166,7 +166,7 @@ a.btn:hover {
   margin-bottom: 30px;
 }
 .header .intro {
-  background: #566f7c;
+  background: #54b2ff;
   padding-top: 90px;
   padding-bottom: 60px;
   position: relative;
@@ -177,7 +177,7 @@ a.btn:hover {
   margin: 0 auto;
 }
 .header .contact-info {
-  background: #4b626d;
+  background: #54b2ff;
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 16px;
@@ -207,7 +207,7 @@ a.btn:hover {
   position: relative;
 }
 .page-nav-wrapper {
-  background: #41545e;
+  background: #54b2ff;
   padding-top: 20px;
   padding-bottom: 20px;
   position: absolute;
@@ -223,7 +223,7 @@ a.btn:hover {
   left: 0;
   width: 100%;
   z-index: 100;
-  background: #607D8B;
+  background: #54b2ff;
 }
 .page-nav-wrapper a {
   color: rgba(255, 255, 255, 0.6);
@@ -292,7 +292,7 @@ a.btn:hover {
   text-align: center;
 }
 .timeline {
-  border-left: 3px solid #607D8B;
+  border-left: 3px solid #54b2ff;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
   position: relative;
@@ -323,7 +323,7 @@ a.btn:hover {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   background: #fff;
-  border: 3px solid #607D8B;
+  border: 3px solid #7bd0fa;
 }
 .timeline .item:after {
   content: "";
